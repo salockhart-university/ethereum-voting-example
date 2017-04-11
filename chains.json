@@ -1,0 +1,15 @@
+{
+  "0xb6cfeab83614da04c03db0fb8a6787a45d0be8d576fcc6f8f457a5a816d22ab3": {
+    "name": "development",
+    "contracts": {
+      "0x81083cd750bb48abf2bba07810b0e58f825b82ca646aa599ba0d041774d0715e": {
+        "address": "0x8741c410fe35eb880cab5c7596fe464171f22d2c",
+        "name":    "MordorVote"
+      },
+      "0xd850382249f5366788d2310e828b879334c087fb68cb0bef4044e1fdbbbf75c1": {
+        "address": "0x96e33bab50fc1dba51d276f7ba8c0335495ba7ef",
+        "name":    "MordorVote"
+      }
+    }
+  }
+}

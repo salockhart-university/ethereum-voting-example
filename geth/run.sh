@@ -1,0 +1,1 @@
+geth --identity "MyNodeName" --rpc --rpcport "8080" --rpccorsdomain "*" --datadir "/home/blockchain/geth_data" --port "30304" --rpcapi "db,eth,net,web3" --networkid 12301 console

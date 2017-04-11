@@ -1,0 +1,7 @@
+{
+  "default": {
+    "gas": 2000000,
+    "contracts": {
+    }
+  }
+}
